@@ -7,5 +7,5 @@ Kelompok 8
 11S19046	Deny Ramadhan Pane
 11S19036	Wybren Manik
 
-Topik :
+Topik : Clustering Countries By Using K-Means  HELP Internasional
 Metode : K-Means Clustering
